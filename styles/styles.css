@@ -1,0 +1,14 @@
+
+nav{
+    background-color: aqua;
+}
+
+img{
+    width: 10%;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+}
+
